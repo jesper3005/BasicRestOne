@@ -10,5 +10,6 @@ package exceptions;
  * @author Jesper
  */
 public class PersonNotFoundException {
-    
+   
+    String name;
 }
